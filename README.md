@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi, I'm Sebastián Puche</b>
+  <b>Hi, I'm Sebastián Matías Puche</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -18,12 +18,11 @@
 <br>
 
 🎓 Higher Technical Degree in Software Development (IFTS N°29)  
-💻 Full Stack: Java/Spring Boot · Python/Django · Node.js/Express · React  
-🧪 Currently training in Manual QA Testing  
+💻 Full Stack: Java · C# ·  Python · Node.js · React  
+🧪 Currently training in Testing QA  
+💼 Programming & Robotics Instructor at TecnoKids  
 🎸 Private guitar teacher  
 📍 Lanús, Buenos Aires, Argentina
-
-<br>
 
 💡 I'm committed, organized, and focused on problem-solving. I'm looking to grow professionally and bring value to a development team.
 
