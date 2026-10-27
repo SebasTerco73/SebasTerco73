@@ -66,6 +66,7 @@
 
 ### ⚙️ Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Manual%20QA-6A1B9A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -79,8 +80,8 @@
 
 ## 📚 Currently Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/Manual%20QA-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tango%20Gesti%C3%B3n-0A66C2?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Automation%20QA-0A66C2?style=for-the-badge"/>
 </p>
 
 ---
